@@ -16,3 +16,5 @@ https://blog.csdn.net/superfanstoprogram/article/details/90239343
 
 ## Boxman
 利用 tkinter.Canvas 实现的推箱子游戏, 核心代码 play.py 精简为200多行，可以参考game_maps.py中的地图设置方式，自己设计新的游戏关卡。
+
+## Py game: ping pong:
